@@ -1,0 +1,11 @@
+.login-button {
+  color: black;
+  background-color: #f8fafc;
+  font-family: 'Roboto';
+  font-size: 13px;
+  height: 35px;
+  width: 80px;
+  border-radius: 12px;
+  border-color: none;
+  border-width: 0px;
+}

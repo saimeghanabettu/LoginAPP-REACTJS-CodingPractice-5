@@ -1,0 +1,17 @@
+.bg-container {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.login-card-container {
+  min-height: 70vh;
+  width: 80%;
+  background-image: linear-gradient(to bottom, #2b2c49, #b5b9ff);
+  border-radius: 12px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
